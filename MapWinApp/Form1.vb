@@ -40,9 +40,7 @@ Public Class Form1
     Public Sub showVbHelloWorld()
         Dim dts As New DataTable
         Dim dr As DataRow = Nothing
-        MsgBox("Hello world in WF from HTMLaaaaaaaaaaaaaaaaa aaaaa")
-        MsgBox("Hello world in WF from HTM L")
-        Dim aaa As DataRow = Nothing
+        MsgBox("Hello world in WF from HTML")
     End Sub
 
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
