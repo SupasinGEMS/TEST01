@@ -41,6 +41,7 @@ Public Class Form1
         Dim dts As New DataTable
         Dim dr As DataRow = Nothing
         MsgBox("Hello world in WF from HTML")
+        Dim aaa As DataRow = Nothing
     End Sub
 
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
