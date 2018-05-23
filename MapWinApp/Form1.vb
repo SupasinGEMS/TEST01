@@ -40,6 +40,7 @@ Public Class Form1
     Public Sub showVbHelloWorld()
         Dim dts As New DataTable
         Dim dr As DataRow = Nothing
+        MsgBox("Hello world in WF from HTMLaaaaaaaaaaaaaaaaaaaaaa")
         MsgBox("Hello world in WF from HTML")
         Dim aaa As DataRow = Nothing
     End Sub
